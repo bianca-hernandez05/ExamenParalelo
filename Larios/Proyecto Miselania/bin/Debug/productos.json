@@ -1,0 +1,50 @@
+{
+  "$type": "System.Collections.Generic.List`1[[Proyecto_Miselania.IProducto, Proyecto Miselania]], mscorlib",
+  "$values": [
+    {
+      "$type": "Proyecto_Miselania.ProductoBebida, Proyecto Miselania",
+      "VolumenLitros": 3.0,
+      "Nombre": "jyd",
+      "Precio": 3.0,
+      "Cantidad": 5
+    },
+    {
+      "$type": "Proyecto_Miselania.ProductoCarne, Proyecto Miselania",
+      "FechaCaducidad": "2024-06-26T03:53:01.5031531-06:00",
+      "TipoCarne": "muslo",
+      "Nombre": "dat",
+      "Precio": 3.0,
+      "Cantidad": 56
+    },
+    {
+      "$type": "Proyecto_Miselania.ProductoCarne, Proyecto Miselania",
+      "FechaCaducidad": "2024-06-26T03:59:35.2531692-06:00",
+      "TipoCarne": "3",
+      "Nombre": "dat",
+      "Precio": 22.0,
+      "Cantidad": 3
+    },
+    {
+      "$type": "Proyecto_Miselania.ProductoBebida, Proyecto Miselania",
+      "VolumenLitros": 2.0,
+      "Nombre": "sftsw",
+      "Precio": 23.0,
+      "Cantidad": 2
+    },
+    {
+      "$type": "Proyecto_Miselania.ProductoBebida, Proyecto Miselania",
+      "VolumenLitros": 6.0,
+      "Nombre": "23",
+      "Precio": 2.0,
+      "Cantidad": 4
+    },
+    {
+      "$type": "Proyecto_Miselania.ProductoCarne, Proyecto Miselania",
+      "FechaCaducidad": "2024-06-27T05:46:40",
+      "TipoCarne": "cerdo",
+      "Nombre": "posta",
+      "Precio": 2.0,
+      "Cantidad": 34
+    }
+  ]
+}

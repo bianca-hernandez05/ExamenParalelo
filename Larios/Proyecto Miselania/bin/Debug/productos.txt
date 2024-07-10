@@ -1,0 +1,9 @@
+Delisoya|13|2|Bebida|Volumen: 3 litros
+KolaShaler|12|12|Bebida|Volumen: 5 litros
+Gatorade|28|3|ProductoBebida|Volumen: 4 litros
+Leche Vainilla|23|42|ProductoBebida|Volumen: 2 litros
+Fanta Naranja|334|2|ProductoBebida|Volumen: 2 litros
+Rapto|24|2|ProductoBebida|Volumen: 3 litros
+AguaMiscelar|C$120.00|10|Higiene Personal
+CarneMolida|C$110.00|3|res
+Curvina|C$120.00|3|Pescado

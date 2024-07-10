@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|c:\\users\\gallo\\onedrive\\escritorio\\proyectoparalelo\\larios\\proyecto miselania\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|solutionrelative:inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|solutionrelative:venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\productosnacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|solutionrelative:productosnacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\productolimpieza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|solutionrelative:productolimpieza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\productohigienepersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|solutionrelative:productohigienepersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\productocarne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|solutionrelative:productocarne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\productobebida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|solutionrelative:productobebida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\iproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|solutionrelative:iproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\formcontrolventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|solutionrelative:formcontrolventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\formagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|solutionrelative:formagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\formcontrolventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|solutionrelative:formcontrolventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\formagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|solutionrelative:formagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A07E16-8AE5-4E90-9B63-EE70574F0A8D}|Proyecto Miselania.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\Inventario.cs",
+              "RelativeDocumentMoniker": "Inventario.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\Inventario.cs",
+              "RelativeToolTip": "Inventario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:39:30.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\IProducto.cs",
+              "RelativeDocumentMoniker": "IProducto.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\IProducto.cs",
+              "RelativeToolTip": "IProducto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:39:22.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\Venta.cs",
+              "RelativeDocumentMoniker": "Venta.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\Venta.cs",
+              "RelativeToolTip": "Venta.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:39:02.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoHigienePersonal.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\ProductoHigienePersonal.cs",
+              "RelativeDocumentMoniker": "ProductoHigienePersonal.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\ProductoHigienePersonal.cs",
+              "RelativeToolTip": "ProductoHigienePersonal.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:38:45.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoSnacks.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\ProductoSnacks.cs",
+              "RelativeDocumentMoniker": "ProductoSnacks.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\ProductoSnacks.cs",
+              "RelativeToolTip": "ProductoSnacks.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:33:18.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoLimpieza.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\ProductoLimpieza.cs",
+              "RelativeDocumentMoniker": "ProductoLimpieza.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\ProductoLimpieza.cs",
+              "RelativeToolTip": "ProductoLimpieza.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:32:54.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoBebida.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\ProductoBebida.cs",
+              "RelativeDocumentMoniker": "ProductoBebida.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\ProductoBebida.cs",
+              "RelativeToolTip": "ProductoBebida.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:32:29.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoCarne.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\ProductoCarne.cs",
+              "RelativeDocumentMoniker": "ProductoCarne.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\ProductoCarne.cs",
+              "RelativeToolTip": "ProductoCarne.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:06:23.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\Producto.cs",
+              "RelativeDocumentMoniker": "Producto.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\Producto.cs",
+              "RelativeToolTip": "Producto.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:00:52.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:51:59.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:51:58.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:49:50.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:49:45.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:46:50.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormControlVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\FormControlVenta.cs",
+              "RelativeDocumentMoniker": "FormControlVenta.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\FormControlVenta.cs",
+              "RelativeToolTip": "FormControlVenta.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAuwJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:03:12.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormAgregarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\FormAgregarProducto.cs",
+              "RelativeDocumentMoniker": "FormAgregarProducto.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\FormAgregarProducto.cs",
+              "RelativeToolTip": "FormAgregarProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:03:01.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormControlVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\FormControlVenta.cs",
+              "RelativeDocumentMoniker": "FormControlVenta.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\FormControlVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormControlVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:02:54.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormAgregarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\FormAgregarProducto.cs",
+              "RelativeDocumentMoniker": "FormAgregarProducto.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\ProyectoParalelo\\Larios\\Proyecto Miselania\\FormAgregarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormAgregarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:02:51.727Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+C:\Users\P1\Desktop\Larios\Proyecto Miselania\bin\Debug\Proyecto Miselania.exe.config
+C:\Users\P1\Desktop\Larios\Proyecto Miselania\bin\Debug\Proyecto Miselania.exe
+C:\Users\P1\Desktop\Larios\Proyecto Miselania\bin\Debug\Proyecto Miselania.pdb
+C:\Users\P1\Desktop\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.csproj.AssemblyReference.cache
+C:\Users\P1\Desktop\Larios\Proyecto Miselania\obj\Debug\Proyecto_Miselania.Properties.Resources.resources
+C:\Users\P1\Desktop\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.csproj.GenerateResource.cache
+C:\Users\P1\Desktop\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.csproj.CoreCompileInputs.cache
+C:\Users\P1\Desktop\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.exe
+C:\Users\P1\Desktop\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.pdb
+C:\Users\P1\Desktop\Larios\Proyecto Miselania\bin\Debug\Newtonsoft.Json.dll
+C:\Users\P1\Desktop\Larios\Proyecto Miselania\bin\Debug\Newtonsoft.Json.xml
+C:\Users\P1\Desktop\Larios\Proyecto Miselania\obj\Debug\Proyecto_Miselania.FormAgregarProducto.resources
+C:\Users\P1\Desktop\Larios\Proyecto Miselania\obj\Debug\Proyecto.3CE61C35.Up2Date
+C:\Users\P1\Desktop\Larios\Proyecto Miselania\obj\Debug\Proyecto_Miselania.Login.resources
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\bin\Debug\Proyecto Miselania.exe.config
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\bin\Debug\Proyecto Miselania.exe
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\bin\Debug\Proyecto Miselania.pdb
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.csproj.AssemblyReference.cache
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\obj\Debug\Proyecto_Miselania.FormAgregarProducto.resources
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\obj\Debug\Proyecto_Miselania.Login.resources
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\obj\Debug\Proyecto_Miselania.Properties.Resources.resources
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.csproj.GenerateResource.cache
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.csproj.CoreCompileInputs.cache
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\obj\Debug\Proyecto.3CE61C35.Up2Date
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.exe
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.pdb
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\bin\Debug\ExcelDataReader.dll
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\bin\Debug\ExcelDataReader.pdb
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\bin\Debug\ExcelDataReader.xml
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\IEF1508LA\OneDrive\Desktop\Larios\Proyecto Miselania\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\bin\Debug\Proyecto Miselania.exe.config
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\bin\Debug\Proyecto Miselania.exe
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\bin\Debug\ExcelDataReader.dll
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\bin\Debug\Newtonsoft.Json.dll
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\bin\Debug\ExcelDataReader.pdb
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\bin\Debug\ExcelDataReader.xml
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\bin\Debug\Newtonsoft.Json.xml
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.csproj.AssemblyReference.cache
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\obj\Debug\Proyecto_Miselania.FormAgregarProducto.resources
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\obj\Debug\Proyecto_Miselania.Login.resources
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\obj\Debug\Proyecto_Miselania.Properties.Resources.resources
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.csproj.GenerateResource.cache
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.csproj.CoreCompileInputs.cache
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\obj\Debug\Proyecto.3CE61C35.Up2Date
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.exe
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.pdb
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\bin\Debug\Proyecto Miselania.pdb
+C:\Users\P1\Desktop\Guia4\Larios\Proyecto Miselania\obj\Debug\Proyecto_Miselania.FormControlVenta.resources
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\bin\Debug\Proyecto Miselania.exe.config
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\bin\Debug\Proyecto Miselania.exe
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\bin\Debug\Proyecto Miselania.pdb
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\bin\Debug\ExcelDataReader.dll
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\bin\Debug\ExcelDataReader.pdb
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\bin\Debug\ExcelDataReader.xml
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.csproj.AssemblyReference.cache
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\obj\Debug\Proyecto_Miselania.FormAgregarProducto.resources
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\obj\Debug\Proyecto_Miselania.FormControlVenta.resources
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\obj\Debug\Proyecto_Miselania.Login.resources
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\obj\Debug\Proyecto_Miselania.Properties.Resources.resources
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.csproj.GenerateResource.cache
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.csproj.CoreCompileInputs.cache
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\obj\Debug\Proyecto.3CE61C35.Up2Date
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.exe
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\obj\Debug\Proyecto Miselania.pdb
+C:\Users\Gallo\OneDrive\Escritorio\ProyectoParalelo\Larios\Proyecto Miselania\obj\Debug\Proyecto_Miselania.Menu.resources
